@@ -23,7 +23,7 @@ Pour un grimpeur de 80kg avec une corde à simple :
 
 Le corps humain risque des lésions à partir de 6kN. Il est donc préférérable d'éviter les facteurs de chute supérieurs à 1 et vital d'éviter ceux égaux ou supérieurs à 2. Ces derniers n'arrivent normalement pas en escalade mais peuvent arriver en via ferrata en l'absence d'absorbeur.
 
-De plus, à cause de l'effet poulie, la force exercée sur le dernier point d'ancrage est supérieure à la force de choc.
+De plus, à cause de l'effet poulie, la force exercée sur le dernier point d'ancrage est supérieure à la force de choc que reçoit le grimpeur.
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\text&space;{Force&space;dernier&space;point&space;d'ancrage}&space;\approx&space;\text{Force&space;de&space;choc}\times&space;1,6" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\text&space;{Force&space;dernier&space;point&space;d'ancrage}&space;\approx&space;\text{Force&space;de&space;choc}\times&space;1,6" title="\text {Force dernier point d'ancrage} \approx \text{Force de choc}\times 1,6" /></a>
 
