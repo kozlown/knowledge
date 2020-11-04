@@ -23,8 +23,8 @@ Pour un grimpeur de 80kg avec une corde à simple :
 
 Le corps humain risque des lésions à partir de 6kN. Il est donc préférérable d'éviter les facteurs de chute supérieurs à 1 et vital d'éviter ceux égaux ou supérieurs à 2. Ces derniers n'arrivent normalement pas en escalade mais peuvent arriver en via ferrata en l'absence d'absorbeur.
 
-De plus, à cause de l'effet poulie, la force exercée sur le dernier point d'ancrage est supérieure à la force de choc que reçoit le grimpeur.
+De plus, à cause de l'effet poulie, la force exercée sur le dernier point d'ancrage est supérieure à la force de choc que subit le grimpeur.
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\text&space;{Force&space;dernier&space;point&space;d'ancrage}&space;\approx&space;\text{Force&space;de&space;choc}\times&space;1,6" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\text&space;{Force&space;dernier&space;point&space;d'ancrage}&space;\approx&space;\text{Force&space;de&space;choc}\times&space;1,6" title="\text {Force dernier point d'ancrage} \approx \text{Force de choc}\times 1,6" /></a>
 
-Enfin, avec des cordes à double, passer les deux cordes dans un ancrage augmente la force de choc et la force sur le dernier point d'ancrage d'approximativement 25% (élasticité réduite). Il est donc préférable de ne clipper qu'une seule corde par ancrage, particulièrement en terrain d'aventure où les ancrages ne sont pas toujours aptes à encaisser de grandes forces de choc.
+Enfin, avec des cordes à double, passer les deux cordes dans un ancrage augmente la force de choc et la force exercée sur le dernier point d'ancrage d'approximativement 25% (élasticité réduite). Il est donc préférable de ne clipper qu'une seule corde par ancrage, particulièrement en terrain d'aventure où les ancrages ne sont pas toujours aptes à encaisser de grandes forces de choc.
