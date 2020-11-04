@@ -8,7 +8,7 @@
 
 Il est important de noter que c'est bien la corde disponible qui est prise en compte. En effet, s'il y a du tirage il est possible qu'une partie de la corde ne soit pas utile à cause des frottements. Le phénomène de tirage augmente donc le facteur de chute et par conséquent la force de choc (voir plus bas).
 
-De plus, en escalade le facteur de chute est toujours inférieur à 2. Ce n'est pas le cas en via ferrata où une longe avec absorbeur de choc est obligatoire, le facteur de chute pouvant facilement atteindre 10 !
+De plus, en escalade le facteur de chute est toujours inférieur à 2. Ce n'est pas le cas en via ferrata où une longe avec absorbeur de choc est obligatoire, le facteur de chute pouvant facilement atteindre 10 ! (ex: chute de 5 mètres avec une longe de 50cm)
 
 ## Force de choc
 
