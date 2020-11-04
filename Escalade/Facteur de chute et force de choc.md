@@ -13,7 +13,7 @@ En escalade, le facteur de chute est toujours inférieur à 2. Ce n'est pas le c
 > La force de choc est la **force de décélération** que subit un grimpeur à la **fin** d'une chute.  
 > Les calculs de la force de choc ne prennent en compte **que l'amortissement dû à la corde**. (par exemple, l'amortissement dû au baudrier & à l'assurage dynamique ne sont pas pris en compte)
 
-Pour un grimpeur de 80kg (voir [calculateur](https://www.alpiniste.fr/facteur-de-chute-calculateur/)) avec une corde à simple
+Pour un grimpeur de 80kg avec une corde à simple :
 
 | Facteur de chute                          |  0 à 1  |  1 à 1.5  | 1.77 | 2   | 5    | 10   |
 |-------------------------------------------|-------|-------|-------|-----|------|-----|
