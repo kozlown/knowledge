@@ -13,12 +13,11 @@ En escalade, le facteur de chute est toujours inférieur à 2. Ce n'est pas le c
 > La force de choc est la **force de décélération** que subit un grimpeur à la **fin** d'une chute.  
 > Les calculs de la force de choc ne prennent en compte **que l'amortissement dû à la corde**. (par exemple, l'amortissement dû au baudrier & à l'assurage dynamique ne sont pas pris en compte)
 
-Pour un grimpeur de 80kg (voir [calculateur](https://www.alpiniste.fr/facteur-de-chute-calculateur/))
+Pour un grimpeur de 80kg (voir [calculateur](https://www.alpiniste.fr/facteur-de-chute-calculateur/)) avec une corde à simple
 
-| Facteur de chute                          | 0.1 | 0.2 | 0.33 | 0.5 | 0.66 | 1   | 1.5 | 2   | 5    | 10   |
-|-------------------------------------------|-----|-----|------|-----|------|-----|-----|-----|------|------|
-| Force de choc (kN)                        | 2.2 | 2.6 | 3    | 3.5 | 4    | 4.6 | 5.4 | 6.1 | 9.17 | 12.6 |
-| Force sur le dernier point d'ancrage (kN) | 3.5 | 4.2 | 4.8  | 5.6 | 6.4  | 7.4 | 8.7 | 9.8 | -    | -    |
+| Facteur de chute                          |  0 à 1  |  1 à 1.5  | 1.77 | 2   | 5    | 10   |
+|-------------------------------------------|-------|-------|-------|-----|------|-----|
+| Force de choc (kN)                        | < 6kN | < 9kN | < 12kN | potentiellement > 12kN |  :skull:  | :skull::skull: |
 
 Le corps humain risque des lésions à partir de 6kN. Il est donc préférérable d'éviter les facteurs de chute supérieurs à 1 et vital d'éviter ceux supérieurs à 2.
 
