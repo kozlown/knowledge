@@ -21,7 +21,7 @@ Pour un grimpeur de 80kg avec une corde à simple :
 |-------------------------------------------|-------|-------|-------|-----|------|-----|
 | Force de choc (kN)                        | < 6kN | < 9kN | < 12kN | potentiellement > 12kN |  :skull:  | :skull::skull: |
 
-Le corps humain risque des lésions à partir de 6kN. Il est donc préférérable d'éviter les facteurs de chute supérieurs à 1 et vital d'éviter ceux supérieurs à 2.
+Le corps humain risque des lésions à partir de 6kN. Il est donc préférérable d'éviter les facteurs de chute supérieurs à 1 et vital d'éviter ceux égaux ou supérieurs à 2. Ces derniers n'arrivent normalement pas en escalade mais peuvent arriver en via ferrata en l'absence d'absorbeur.
 
 De plus, à cause de l'effet poulie, la force exercée sur le dernier point d'ancrage est supérieure à la force de choc.
 
