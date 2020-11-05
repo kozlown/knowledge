@@ -1,6 +1,6 @@
 # Boîte à connaissances
 
-Ceci est mon espace d'accumulation de connaissances personnel à propos de divers domaines qui m'intéressent.
+Ceci est mon espace de connaissances personnel à propos de divers domaines qui m'intéressent.
 
 Bonne lecture !
 
