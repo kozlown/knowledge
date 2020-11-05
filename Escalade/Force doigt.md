@@ -4,12 +4,12 @@ La force doigt est une composante essentielle de l'escalade.
 L'entrainement de force prend du temps, il faut être patient et se tenir à un même protocol pendant 
 un cycle complet (4 à 12 semaines) pour voir une réelle progression.
 
-## Quelques ressources :
+## Quelques ressources
 
 - [Dave Mc Leod (vidéo)](https://youtu.be/VeKE5VH5-qg)  
 - [À portée de doigts (article)](https://aporteededoigts.com/physique-escalade-entrainement-progression/force/doigts)
 
-## Résumé de la vidéo de Dave Mc Leod :
+## Résumé de la vidéo de Dave Mc Leod
 
 ### Introduction
 La force doigt est la capacité de force la plus importante pour n'importe quel grimpeur. Il semble donc essentiel de s'intéresser à l'entrainement de cette capacité si l'on s'intéresse à l'entrainement en escalade, que l'on soit bloqueur ou diffeur.
