@@ -30,3 +30,8 @@ Il semble, par expérience que les deux extrêmes (2 et 15 secondes) ne fonction
   - **semi-arquée** (half crimp)
   - **semi-tendu** (4 fingers open hand)
   - **tendu** (3 fingers drag / full open hand) :arrow_left: Faiblesse de la majorité des grimpeurs.
+<div>
+ <img src="https://github.com/kozlown/knowledge/blob/main/Escalade/images/semi-arqu%C3%A9e.jpg" alt="semi-arquée" width="300" style="display:inline"/>
+ <img src="https://github.com/kozlown/knowledge/blob/main/Escalade/images/semi-tendu.jpg" alt="semi-tendu" width="300" style="display:inline"/>
+ <img src="https://github.com/kozlown/knowledge/blob/main/Escalade/images/tendu.jpg" alt="tendu" width="300" style="display:inline"/>
+</div>
