@@ -33,8 +33,9 @@ L'échauffement dure entre 5 et 15 min. Dave est capable de s'échauffer en 5 à
 #### Suspensions
 Les suspensions doivent durer entre **7 et 10 secondes** (en général, plus proche de 10 que de 7). Ces nombres ne sont pas basé sur des recherches scientifiques (pas seulement ... du moins) mais plutôt sur l'expérience. Que la suspension dure 5", 8" ou 12", il semble que ça n'ait pas une si grande importance. L'essentiel est de se suspendre **jusqu'à l'échec (effort maximal)**, de **se tenir à un protocol** et de s'**entrainer** suffisamment et régulièrement.  
 
-:information_source: _Quel que soit le groupe musculaire, la force se base sur la filière d'anaérobie alactique qui peut durer jusqu'à 60 secondes mais qui est maximale entre 0 et 15 secondes.  
-La suite se base sur l'expérience, vaut-il mieux se suspendre pendant 2" / 5" / 8" / 10" / 12" / 15" ?  
+:information_source:  
+
+_Quel que soit le groupe musculaire, la force se base sur la filière d'anaérobie alactique qui peut durer jusqu'à 60 secondes mais qui est maximale entre 0 et 15 secondes. La suite se base sur l'expérience, vaut-il mieux se suspendre pendant 2" / 5" / 8" / 10" / 12" / 15" ?  
 Il semble, par expérience que les deux extrêmes (2 et 15 secondes) ne fonctionnent pas bien, 2" n'étant pas suffisant pour délivrer le message au muscle et 15" étant trop proche de la filière anaérobie lactique._
 
 #### Structure
