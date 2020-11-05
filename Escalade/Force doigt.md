@@ -29,9 +29,24 @@ Il semble, par expérience que les deux extrêmes (2 et 15 secondes) ne fonction
 - L'entrainement peut être structuré par types de préhensions. Il en existe 3 principales qui sont :
   - **semi-arquée** (half crimp)
   - **semi-tendu** (4 fingers open hand)
-  - **tendu** (3 fingers drag / full open hand) :arrow_left: Faiblesse de la majorité des grimpeurs.
+  - **tendu** (3 fingers drag / full open hand) :arrow_left: Faiblesse de la majorité des grimpeurs.  
 <div>
  <img src="https://github.com/kozlown/knowledge/blob/main/Escalade/images/semi-arqu%C3%A9e.jpg" alt="semi-arquée" width="300" style="display:inline"/>
  <img src="https://github.com/kozlown/knowledge/blob/main/Escalade/images/semi-tendu.jpg" alt="semi-tendu" width="300" style="display:inline"/>
  <img src="https://github.com/kozlown/knowledge/blob/main/Escalade/images/tendu.jpg" alt="tendu" width="300" style="display:inline"/>
 </div>
+
+Bien évidemment, d'autres préhensions peuvent être travaillées : bi-doigt (avant, central, arrière), mono-doigt, pince, etc.
+
+- Le nombre de séries par préhension varie entre **3 et 5**. Il est inutile de faire 15 séries car à partir de la 6ème vous ne serez probablement plus capable de délivrer un effort maximal. Combien de **repos** entre les série ? Une réponse rapide à cette question est `autant de temps qu'il vous faut pour être capable de reproduire le même effort`. En général entre 45" et 1'30". L'effort étant intense et court, le repos n'a pas besoin d'être très long. Dave se repose 1' entre les séries, _personnellement je me repose 1'20", de cette manière c'est facile à calculer puisque chaque série dure 1'30"._ À vous de trouver la durée qui vous va bien, le tout c'est que votre performance ne décroisse pas au fur et à mesure des séries. Ce qu'on veut éviter, c'est de travailler la force lorsqu'on est plus capable de le faire car ça n'a **aucune utilité** et le **risque de blessure** est augmenté.
+
+- Comment trouver la bonne intensité ? C'est simple, il faut **être inventif**.
+  - Si une préhension est **trop difficile**, on peut :
+    - s'alléger avec ses pieds (par terre, sur une chaise ou des prises)
+    - ajouter une poulie et s'alléger avec 1 à 15 kg de poids (extrêmité de la corde fixée au baudrier ou dans la main)
+    - si suspension à une main, s'alléger avec l'autre main (trouver le bon dosage en trouvant la bonne prise et la bonne préhension)
+  - Si une préhension est **trop facile**, on peut :
+    - se lester avec des poids au baudrier
+    - se suspendre à une main (avec ou sans aide de l'autre main)
+
+- 
