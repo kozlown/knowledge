@@ -16,6 +16,7 @@ La force doigt est la capacité de force la plus importante pour n'importe quel 
 
 ### Poutre d'entrainement
 La **poutre d'entrainement (hangboard / fingerboard)** est l'outil le plus efficace pour travailler la force doigt. C'est un outil de travail de la force et il ne devrait être utilisé que pour cela, mieux vaut privilégier la grimpe pour travailler l'endurance. Dans le cas où on a pas accès à un mur d'escalade ou à une falaise, la poutre peut être un moyen de maintenir son niveau d'endurance.
+La poutre doit rester un outils simple (voir [Edge Hangboard de Dave](https://www.davemacleod.com/shop/edge)) et être en bois (ponce moins les doigts que la résine et permet donc de s'entrainer plus longtemps).
 
 ### Travail de force
 La force est l'activation **maximale** des muscles.
@@ -75,4 +76,15 @@ Si une préhension est **trop facile**, on peut ...
 - se lester avec des poids au baudrier
 - se suspendre à une main (avec ou sans aide de l'autre main)
 
+##### Combien d'entrainements par semaine ?
+
+Il est possible de faire cet entrainement plusieurs fois par semaine (2 à 6). Il n'y a pas vraiment de règle si ce n'est qu'il faut être attentif à son ressenti. 
+Si les performances décroissent significativement de jours en jours c'est que le repos entre les entrainements n'est pas suffisant. De même, en cas de douleur, il faut impérativement se reposer et ne pas forcer jusqu'à la blessure. Entre se reposer deux jours complets et perdre plusieurs mois à cause d'une blessure, le calcul est vite fait.
+Le niveau de performance peut baisser légèrement pendant un cycle mais doit se stabiliser, voir s'améliorer au court du cycle ou après. Les progrès des premières semaines vont probablement être assez rapides et notables. Puis on atteint un plateau, une stabilisation de la performance qui peut durer plusieurs mois. Mon message est : Continuez ! Les gains de force sont très lents et parfois on ne les constate pas, mais quand vous reviendrez sur du rocher vous sentirez la différence.
+
+#### Éviter les blessures
+
+1. Lors des suspensions, ne pas sauter du sol car si la difficulté est trop forte ou que vous glissez, il y a un fort risque de blessure (notamment aux poulies). Préférez tracter légèrement pour quitter le sol.
+2. Ne pas balancer pour éviter que les doigts glissent. Pour cela il faut démarrer la suspension avec le corps aligné avec la poutre.
+3. Toujours pour ne pas glisser, utilisez de la magnésie pour garder vos doigts secs et brossez régulièrement les prises.
 
