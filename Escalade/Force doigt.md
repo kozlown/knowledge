@@ -78,9 +78,10 @@ Si une préhension est **trop facile**, on peut ...
 
 ##### Combien d'entrainements par semaine ?
 
-Il est possible de faire cet entrainement plusieurs fois par semaine (2 à 6). Il n'y a pas vraiment de règle si ce n'est qu'il faut être attentif à son ressenti. 
-Si les performances décroissent significativement de jours en jours c'est que le repos entre les entrainements n'est pas suffisant. De même, en cas de douleur, il faut impérativement se reposer et ne pas forcer jusqu'à la blessure. Entre se reposer deux jours complets et perdre plusieurs mois à cause d'une blessure, le calcul est vite fait.
-Le niveau de performance peut baisser légèrement pendant un cycle mais doit se stabiliser, voir s'améliorer au court du cycle ou après. Les progrès des premières semaines vont probablement être assez rapides et notables. Puis on atteint un plateau, une stabilisation de la performance qui peut durer plusieurs mois. Mon message est : Continuez ! Les gains de force sont très lents et parfois on ne les constate pas, mais quand vous reviendrez sur du rocher vous sentirez la différence.
+Il est possible de faire cet entrainement plusieurs fois par semaine (2 à 6). Il n'y a pas vraiment de règle si ce n'est qu'il faut être attentif à son **ressenti**. 
+Si les performances décroissent significativement de jours en jours c'est que le repos entre les entrainements n'est pas suffisant.  
+De même, **en cas de douleur, il faut impérativement se reposer** et ne pas forcer jusqu'à la blessure. Entre se reposer deux jours complets et perdre plusieurs mois à cause d'une blessure, le calcul est vite fait.  
+Le niveau de performance peut baisser légèrement pendant un cycle mais doit se **stabiliser**, voir s'améliorer au court du cycle ou après. Les progrès des premières semaines vont probablement être assez rapides et notables. Puis on atteint un **plateau**, une stabilisation de la performance qui peut durer plusieurs mois. Mon message est : **Continuez** ! Les gains de force sont très lents et parfois on ne les constate pas, mais quand vous reviendrez sur du rocher vous sentirez la différence.
 
 #### Éviter les blessures
 
