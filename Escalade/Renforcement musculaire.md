@@ -10,20 +10,20 @@
 
 LP = Leste Possible
 
-- **Roulette sur genoux / tibia / pieds** (LP) <ins>Abdominaux & Épaules & Triceps & Dorsaux</ins>
+- **[Ab Roller] sur genoux / tibia / pieds** (LP) <ins>Abdominaux & Épaules & Triceps & Dorsaux</ins>
 - **Pompe classique / diamant / écartée / archer** (LP) <ins>Deltoides & Triceps & Pectoraux & Dentelé antérieur & Abdominaux</ins>
 - **Pompe tigre** (LP) <ins>Triceps & Épaules</ins>
 - **Montée front lever (jambes tendues ou pliées)** (LP) <ins>Déltoide postérieur & Abdominaux & Pectoraux & Dorsaux & Poignet & Triceps</ins>
-- **Anneaux chest fly T / Y / I** (LP) <ins>Pectoraux & Deltoide antérieur</ins>
-- **Anneaux inverted fly T / Y / I** (LP) <ins>Deltoide postérieur</ins>
-- **Anneaux Iron cross** <ins>Deltoides & Pectoraux & Dorsaux & Abdominaux & Triceps & Trapèzes</ins>
-- **Anneaux Dips** (LP) <ins>Triceps & Epaules & Pectoraux</ins>
-- **Muscle up** (Anneau / Barre) (LP) <ins>Dorsaux & Biceps & Epaules & Triceps</ins>
-- **Anneau Back lever** <ins>Dorsaux & Abdominaux & Lombaires</ins>
-- **Anneaux pull-up** (LP)
-- **Anneaux inverted row** (engager dorsaux) (LP)
-- **Deux exos précédents en mode archer pull-up** (LP)
-- **Anneaux LSit**
+- **[Rings] chest fly T / Y / I** (LP) <ins>Pectoraux & Deltoide antérieur</ins>
+- **[Rings] inverted fly T / Y / I** (LP) <ins>Deltoide postérieur</ins>
+- **[Rings] Iron cross** <ins>Deltoides & Pectoraux & Dorsaux & Abdominaux & Triceps & Trapèzes</ins>
+- **[Rings] Dips** (LP) <ins>Triceps & Epaules & Pectoraux</ins>
+- **[Rings] Muscle up** (LP) <ins>Dorsaux & Biceps & Epaules & Triceps</ins>
+- **[Rings] Back lever** <ins>Dorsaux & Abdominaux & Lombaires</ins>
+- **[Rings] pull-up** (LP) <ins>Dorsaux & Biceps & Abdominaux & Deltoides</ins>
+- **[Rings] inverted row** (engager dorsaux) (LP)
+- **[Rings] Deux exos précédents en mode archer pull-up** (LP)
+- **[Rings] LSit**
 - **LSit au sol en montant au max à la verticale**
 - **Abdos spé côtés et avant** (varier croisé / pas croisé / hauteur / longueur)
 - **Handstand**
