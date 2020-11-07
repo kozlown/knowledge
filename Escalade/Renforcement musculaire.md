@@ -19,7 +19,7 @@ LP = Leste Possible
 - **Anneaux Iron cross** <ins>Deltoides & Pectoraux & Dorsaux & Abdominaux & Triceps & Trapèzes</ins>
 - **Anneaux Dips** (LP) <ins>Triceps & Epaules & Pectoraux</ins>
 - **Muscle up** (Anneau / Barre) (LP) <ins>Dorsaux & Biceps & Epaules & Triceps</ins>
-- **Anneau Back lever**
+- **Anneau Back lever** <ins>Dorsaux & Abdominaux & Lombaires</ins>
 - **Anneaux pull-up** (LP)
 - **Anneaux inverted row** (engager dorsaux) (LP)
 - **Deux exos précédents en mode archer pull-up** (LP)
