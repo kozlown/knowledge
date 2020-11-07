@@ -10,8 +10,8 @@
 
 LP = Leste Possible
 
-- **Roulette sur genoux / tibia / pieds** (LP) <ins>Abdos & Épaules & Triceps & Dos</ins>
-- **Pompe classique / diamant / écartée / archer** (LP)
+- **Roulette sur genoux / tibia / pieds** (LP) <ins>Abdominaux & Épaules & Triceps & Dos</ins>
+- **Pompe classique / diamant / écartée / archer** (LP) <ins>Deltoides & Triceps & Pectoraux & Dentelé antérieur & Abdominaux</ins>
 - **Pompe triceps** (LP)
 - **Montée semi-planche / planche** (LP)
 - **Anneaux chest fly T / Y / I** (LP) <ins>Pectoraux & Deltoide antérieur</ins>
