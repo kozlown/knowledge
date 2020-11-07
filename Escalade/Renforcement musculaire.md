@@ -14,11 +14,11 @@ LP = Leste Possible
 - **Pompe classique / diamant / écartée / archer** (LP)
 - **Pompe triceps** (LP)
 - **Montée semi-planche / planche** (LP)
-- **Anneaux chest fly T / Y / I** (LP) - <ins>Pectoraux & Deltoide antérieur</ins>
-- **Anneaux inverted fly T / Y / I** (LP) - <ins>Deltoide postérieur</ins>
-- **Anneaux Iron cross** - <ins>Epaules</ins>
-- **Anneaux Dips** (LP) - <ins>Triceps & Epaules & Pectoraux</ins>
-- **Muscle up** (Anneau / Barre) (LP) - <ins>Dos & Biceps & Epaules & Triceps</ins>
+- **Anneaux chest fly T / Y / I** (LP) <ins>Pectoraux & Deltoide antérieur</ins>
+- **Anneaux inverted fly T / Y / I** (LP) <ins>Deltoide postérieur</ins>
+- **Anneaux Iron cross** <ins>Epaules</ins>
+- **Anneaux Dips** (LP) <ins>Triceps & Epaules & Pectoraux</ins>
+- **Muscle up** (Anneau / Barre) (LP) <ins>Dos & Biceps & Epaules & Triceps</ins>
 - ***Anneau Back lever**
 - **Anneaux pull-up** (LP)
 - **Anneaux inverted row** (engager dos) (LP)
