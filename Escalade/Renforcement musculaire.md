@@ -16,7 +16,7 @@ LP = Leste Possible
 - **Montée front lever (jambes tendues ou pliées)** (LP) <ins>Déltoide postérieur & Abdominaux & Pectoraux & Dorsaux & Poignet & Triceps</ins>
 - **Anneaux chest fly T / Y / I** (LP) <ins>Pectoraux & Deltoide antérieur</ins>
 - **Anneaux inverted fly T / Y / I** (LP) <ins>Deltoide postérieur</ins>
-- **Anneaux Iron cross** <ins>Deltoides & Pectoraux & Abdominaux & Triceps & Trapèzes</ins>
+- **Anneaux Iron cross** <ins>Deltoides & Pectoraux & Dorsaux & Abdominaux & Triceps & Trapèzes</ins>
 - **Anneaux Dips** (LP) <ins>Triceps & Epaules & Pectoraux</ins>
 - **Muscle up** (Anneau / Barre) (LP) <ins>Dorsaux & Biceps & Epaules & Triceps</ins>
 - **Anneau Back lever**
