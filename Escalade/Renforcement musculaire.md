@@ -10,7 +10,7 @@
 
 LP = Leste Possible
 
-- **Roulette sur genoux / tibia / pieds** (LP)
+- **Roulette sur genoux / tibia / pieds** (LP) <ins>Abdos & Épaules & Triceps & Dos</ins>
 - **Pompe classique / diamant / écartée / archer** (LP)
 - **Pompe triceps** (LP)
 - **Montée semi-planche / planche** (LP)
